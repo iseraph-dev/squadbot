@@ -1,0 +1,10 @@
+{
+  "name": "squadbot2",
+  "version": "1.0.0",
+  "author": "iSeraph",
+  "license": "ISC",
+  "packageManager": "yarn@3.3.1",
+  "dependencies": {
+    "discord.js": "dev"
+  }
+}
