@@ -40,7 +40,7 @@ bot.on(Events.VoiceStateUpdate, (vChannel) => {
                 type: 2,
                 bitrate: 96000,
                 videoQualityMode: 1,
-                parent: config.vCHANNELS_CATEGORY,
+                parent: config.vCHANNELS_CATEGORY_ID,
                 permissionOverwrites: [
                     {
                         id: vChannel.member.id,
